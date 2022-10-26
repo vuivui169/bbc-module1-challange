@@ -15,7 +15,7 @@ Link to deployed application: https://vuivui169.github.io/bbc-module1-challange/
 
 The deployed webpage should appear as follows
 
-![Preview Website Image](assets/images/digital-marketing-meeting.jpg)
+![Preview Website Image](assets/images/finishing-look.png)
 
 ## Credits
 
