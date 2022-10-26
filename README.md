@@ -1,5 +1,4 @@
-Repository contains a quality README file with description, screenshot, and link to deployed application.
-# Bootcamp module 1 challenge - HTML CSS Git Challenge: Code Refactor
+# Bootcamp Module 1 Challenge - HTML CSS Git Challenge: Code Refactor
 
 ## Description
 
