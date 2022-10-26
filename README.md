@@ -11,11 +11,11 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 ## Usage
 
-Link to deployed application: 
+Link to deployed application: https://vuivui169.github.io/bbc-module1-challange/
 
 The deployed webpage should appear as follows
 
-![Preview Website Image](Develop/assets/images/finishing-look.png)
+![Preview Website Image](assets/images/digital-marketing-meeting.jpg)
 
 ## Credits
 
