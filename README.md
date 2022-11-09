@@ -24,3 +24,9 @@ Starter code: https://github.com/coding-boot-camp/urban-octo-telegram
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Feedback
+
+Good job with the project. The ul in your index.html could be wrapped with nav tags. Your hero section could be wrapped in figure tags. Good job with your readme and good job with links to the deployed version. Your css is consolidated. The repo needs to have an unique name.
+
+Good job with the project.
